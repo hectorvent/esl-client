@@ -105,8 +105,9 @@ public class EslFrameDecoder extends ReplayingDecoder<EslFrameDecoder.State> {
 							} else {
 								throw new IllegalStateException("Unhandled ESL header [" + headerParts[0] + ']');
 							}
+						} else {
+							currentMessage.addHeader(headerName, headerParts[1]);
 						}
-						currentMessage.addHeader(headerName, headerParts[1]);
 					} else {
 						reachedDoubleLF = true;
 					}

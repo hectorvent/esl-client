@@ -168,7 +168,7 @@ public class SendMsg {
 		StringBuilder sb = new StringBuilder("SendMsg: ");
 		if (msgLines.size() > 1) {
 			sb.append(msgLines.get(1));
-		} else if (msgLines.size() > 0) {
+		} else if (!msgLines.isEmpty()) {
 			sb.append(0);
 		}
 

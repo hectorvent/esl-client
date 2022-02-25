@@ -1,0 +1,43 @@
+
+G
+java:S11811"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÅÒë•ó/
+S
+java:S18742"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÇÒë•ó/
+G
+java:S1181O"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÈÒë•ó/
+S
+java:S1874P"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÉÒë•ó/
+H
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ËÒë•ó/
+T
+java:S1874"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÌÒë•ó/
+H
+java:S1181 "%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÍÒë•ó/
+T
+java:S1874¡"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÍÒë•ó/
+H
+java:S1181È"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÎÒë•ó/
+T
+java:S1874É"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÏÒë•ó/
+H
+java:S1181ä"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ĞÒë•ó/
+T
+java:S1874å"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÑÒë•ó/
+H
+java:S1181ø"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÑÒë•ó/
+T
+java:S1874ù"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÒÒë•ó/
+H
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÓÒë•ó/
+T
+java:S1874"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÓÒë•ó/
+H
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÔÒë•ó/
+T
+java:S1874Ÿ"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÔÒë•ó/
+H
+java:S1181§"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÕÒë•ó/
+T
+java:S1874¨"1Remove this use of "propagate"; it is deprecated.(¶¥©ßûÿÿÿÿ8ÕÒë•ó/
+‚
+java:S1192+"`Define a constant instead of duplicating this literal "command cannot be null or empty" 3 times.(œ÷×§ûÿÿÿÿ8ÕÒë•ó/

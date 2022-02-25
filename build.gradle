@@ -1,5 +1,7 @@
-apply plugin: 'java'
-apply plugin: 'maven'
+
+plugins {
+    id 'java'
+}
 
 group = 'org.freeswitch.esl.client'
 version = '0.10.0-SNAPSHOT'
@@ -8,13 +10,13 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 repositories {
-     maven { url "http://repo.maven.apache.org/maven2" }
+    mavenCentral()
 }
 
 dependencies {
-    compile 'io.netty:netty-all:4.1.17.Final'
-    compile 'com.google.guava:guava:23.4-jre'
-    compile 'org.slf4j:slf4j-api:1.7.25'
-    runtime 'ch.qos.logback:logback-classic:1.2.3'
-    testCompile 'junit:junit:4.8.1'
+    implementation 'io.netty:netty-all:4.1.72.Final'
+    implementation 'com.google.guava:guava:23.4-jre'
+    implementation 'org.slf4j:slf4j-api:1.7.36'
+    implementation 'ch.qos.logback:logback-classic:1.2.10'
+    testImplementation 'junit:junit:4.13.2'
 }

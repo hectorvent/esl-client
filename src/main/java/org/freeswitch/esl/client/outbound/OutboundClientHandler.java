@@ -70,7 +70,7 @@ class OutboundClientHandler extends AbstractEslClientHandler {
 	}
 
 	@Override
-	protected void handleAuthRequest(io.netty.channel.ChannelHandlerContext ctx) {
+	protected void handleAuthRequest(ChannelHandlerContext ctx) {
 		// This should not happen in outbound mode
 		log.warn("Auth request received in outbound mode, ignoring");
 	}
